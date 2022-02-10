@@ -31,5 +31,5 @@ The main findings of the code can be found at the post available [here](https://
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to Martin Ellis for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/martinellis/nhl-game-data).  Otherwise, feel free to use the code here as you would like! 
-Also, I would like to give credit to the YouTube channel [Computer Science](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA) for a video on the creation of the neural network used to predict goals. While I did repurpose it and toyed with the hyperparameters a bit, the original code and idea came from this video.
+Also, I would like to give credit to the YouTube channel [Computer Science](https://www.youtube.com/watch?v=QIUxPv5PJOY) for a video on the creation of the neural network used to predict goals. While I did repurpose it and toyed with the hyperparameters a bit, the original code and idea came from this video.
 
