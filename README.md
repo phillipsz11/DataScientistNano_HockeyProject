@@ -14,7 +14,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interestested in using NHL game Data to better understand:
 
-1. How my favorite player (Carey Price) compares to other goalies in the league?
+1. Just how good is Carey Price as a goalie?
 2. How does he compare to the top five goalies in the league?
 3. Can we predict how many goals a player like Alexander Ovechkin will score?
 
